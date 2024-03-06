@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Nafmo2/Nafmo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+競技プログラミングとイベントが好きな大学院生．過去のイベント歴などの作品は [nafmo.dev](https://nafmo.dev/works/) で公開予定．
 
-Here are some ideas to get you started:
+### AtCoder
+[![Rating](https://badgen.org/img/atcoder/Nafmo2/rating/algorithm?style=flat-square)](https://atcoder.jp/users/Nafmo2?contestType=algo)
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/Nafmo2/rating/heuristic?style=flat-square)](https://atcoder.jp/users/Nafmo2?contestType=heuristic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skill 
+使ったことあるやつ全部並べただけ
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,pytorch,git,github,githubactions,docker,html,css,js,netlify,vscode,)](https://skillicons.dev)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Nafmo2)
+
+
+後で足します．ひとまずこんなところでどうでしょう
