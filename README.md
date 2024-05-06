@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-競技プログラミングとイベントが好きな大学院生．過去のイベント歴などの作品は [nafmo.dev](https://nafmo.dev/works/) で公開予定．
+競技プログラミングとイベント運営が好きな大学院生．過去のイベント歴などの作品は [nafmo.dev](https://nafmo.dev/works/) で公開予定．
 
 ### AtCoder
 [![Rating](https://badgen.org/img/atcoder/Nafmo2/rating/algorithm?style=flat-square)](https://atcoder.jp/users/Nafmo2?contestType=algo)
