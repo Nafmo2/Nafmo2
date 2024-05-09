@@ -13,6 +13,9 @@
  - ヤフー株式会社 2022 SummerInternship 2022年9月 2週間  
    - テーマ:検索エンジンアルゴリズムの分析・性能改善を通して検索エンジンの高速化検証の過程を体験
 
+
+## その他いろいろ
+
 ### AtCoder
 [![Rating](https://badgen.org/img/atcoder/Nafmo2/rating/algorithm?style=flat-square)](https://atcoder.jp/users/Nafmo2?contestType=algo)
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/Nafmo2/rating/heuristic?style=flat-square)](https://atcoder.jp/users/Nafmo2?contestType=heuristic)
